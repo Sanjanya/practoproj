@@ -10,7 +10,7 @@ from .forms import CustomUserCreationForm
 
 def HomePage(request):
     return render (request, 'home.html')
-
+#change
 # appname/views.py
 
 
